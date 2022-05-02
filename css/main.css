@@ -1,0 +1,40 @@
+div{
+    height:200px;    
+    margin:20px;
+    background-position:center;
+}
+.head{
+    color:black;
+    background-color:bisque;
+    overflow:hidden;
+    width:435px;
+    font-size:50px;
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-left:18cm;
+    border-radius:10%;
+}
+.head1{
+    margin-left:12cm;
+    margin-top,bottom:50px;
+    block-size:500px;
+}
+.head2{
+    block-size: 300px;
+    margin:2cm;
+}
+.head3{
+    block-size: 300px;
+    margin:2cm;
+}
+.head4{
+    block-size: 300px;
+    margin:2cm;
+}
+
+.main1{
+    font-size:20px;
+}
+.main2{
+    font-size:20px;
+}
